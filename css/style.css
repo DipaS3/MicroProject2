@@ -80,8 +80,8 @@ input[type="text"] {
   gap: 4px;
   float: right;
   position: sticky;
-  top: 60px;
-  margin-top: 6vh;
+  top: 80px;
+  margin-top: 20vh;
   width:64px;
 }
 .social img {
