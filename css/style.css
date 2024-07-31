@@ -80,7 +80,7 @@ input[type="text"] {
   gap: 4px;
   float: right;
   position: sticky;
-  top: 80px;
+  top: 40px;
   margin-top: 6vh;
   width:64px;
 }
