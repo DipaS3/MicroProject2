@@ -63,6 +63,10 @@ input[type="text"] {
   padding: 10px 10px;
   border: none;
 }
+.searchbox:focus,input:focus{
+  border:none;
+  outline:none;
+}
 .searchbox {
   display: flex;
   align-items: center;
