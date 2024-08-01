@@ -16,7 +16,6 @@ body {
 .navbar {
   display: flex;
   align-items: center;
-  /* position: relative; */
   width: 100vw;
   background-color: #6f6af7;
   height: 10vh;
@@ -42,13 +41,11 @@ body {
   justify-content: center;
   align-items: center;
 }
-
 .item {
   font-family: DM Sans;
   margin: 0;
   padding: 0;
-  /* text-align: left; */
-}
+ }
 .fa-search {
   position: absolute;
   left: 1100px;
@@ -111,17 +108,14 @@ input[type="text"] {
 }
 
 .flexitem {
-  /* height: 60vh; */
- /* padding: 90px 120px; */
  display: flex;
-  /* justify-content: center; */
   gap: 30px;
   width: 90vw;
   align-items: center;
   margin-left: auto;
-    margin-right: auto;
-    margin-top: 120px;
-    margin-bottom: 90px;
+  margin-right: auto;
+  margin-top: 120px;
+  margin-bottom: 90px;
   
 }
 
@@ -133,7 +127,6 @@ input[type="text"] {
 #right-flex {
   height: 48vh;
   width: 70%;
-  /* flex: 1; */
   border-radius: 15px;
   padding: 20px;
   font-family: DM Sans;
@@ -160,8 +153,6 @@ input[type="text"] {
   border-radius: 11px;
   width:21%; 
   padding: 20px;
-  /* margin-top: 120px; */
-  
 }
 #middle-item1 {
   background-color: #929dff;
